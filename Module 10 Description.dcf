@@ -1,0 +1,10 @@
+Package: Bhatti
+Type: Package
+Title: Basic Statistical Functions for Easy Analysis
+Version: 0.1.0
+Authors@R: c(person("Sarah", "Bhatti", email = "sarahsanchia@usf.edu", role = c("aut", "cre")))
+Description: Designed for beginners learning R, This package provides simple functions for statistical 
+    calculations (e.g., mean, median, mode, range).
+License: CC0
+Encoding: UTF-8
+LazyData: true
